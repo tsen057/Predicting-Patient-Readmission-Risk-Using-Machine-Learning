@@ -97,10 +97,3 @@ Can also download it from Kaggle.
 [LinkedIn](https://www.linkedin.com/in/tejaswini-sengaonkar) | [GitHub](https://github.com/tsen057)
 
 
-
-
----
-
-##  Acknowledgements
-
-* UCI Machine Learning Repository — Diabetes 130‑US hospi
